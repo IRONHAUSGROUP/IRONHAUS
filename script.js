@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-< lang="en">
-
-<>
-  < charset="UTF-8" />
-  < name="viewport" content="width=device-width, initial-scale=1.0" />
-  <>IronHaus Auto Insurance<>
-  <script src="https://cdn.tailwindcss.com"></script>
+ <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://js.stripe.com/v3/"></script>
 </>
 
-< class="bg-gray-100 text-gray-800">
+
   <!-- Header -->
   <header class="bg-blue-900 text-white shadow p-4">
     <div class="container mx-auto flex justify-between items-center">
